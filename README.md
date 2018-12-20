@@ -5,5 +5,6 @@ Solving the non linear least square minimization problem using Improved Gauss-Ne
 - Gauss Newton Explain -
 - LM Explain - 
 
+![](fitted_exp_function.gif)
 
  
