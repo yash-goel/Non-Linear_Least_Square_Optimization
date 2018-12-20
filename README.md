@@ -36,7 +36,7 @@ now lets put the linearization to zero to find delta
 
 
 
-**LM**
+# Levenberg-Marquardt(LM)
 
 Overcome the shortcomings by adding a lambda term
 
