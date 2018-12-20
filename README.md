@@ -10,14 +10,14 @@ fi(x) is called the ith residual
 
 So, the non-linear least squares problem is posed as minimizing the sum of sqaures of the residual.
 
-**Solving the non-linear least square**
+# Solving the non-linear least square
 The Gauss Newton algorithm is discussed in detail below for the case of **non-linear model fitting**. It is an iterative algorithm which keeps moving towards the optimal solution by finding the approximate answers on the way. LM is an extension of Gauss Newton algorithm which overcomes the drawbacks of vanilla Gauss Newton which fails to converge in most of the cases.
 
-**Non-Linear Model Fitting**
+# Non-Linear Model Fitting
 We have random observations (yi) from any process for some conditions/ inputs (xi) and we want to fit a function (f(xi, theta))
 where theta is the parameter we want to optimize for to find a fitted curve.
 
-**Gauss Newton**
+# Gauss Newton
 Let's dive into the derivation of Gauss Newton straight.
 
 We want to find the optimal parameters (theta hat) for which we mini
